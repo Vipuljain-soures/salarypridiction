@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a986540c-d4b4-49e5-9fd3-40882193452e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hEdK4BBVjNElfP62551ejNdZgg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/css" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="salarypredict" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deployment-flask-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Deployment-flask-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Deployment-flask-master/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.salarypredict" />
+      <item itemvalue="Python.model" />
+      <item itemvalue="Python.app" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a986540c-d4b4-49e5-9fd3-40882193452e" name="Default Changelist" comment="" />
+      <created>1599580117537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599580117537</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599585140649">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="141" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.1366.737@0.31.1366.737" timestamp="1599585140649" />
+    <state x="386" y="200" width="594" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599587840191">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="386" y="200" width="594" height="402" key="#com.intellij.fileTypes.FileTypeChooser/0.31.1366.737@0.31.1366.737" timestamp="1599587840191" />
+    <state x="466" y="110" width="434" height="587" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1599585140160">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="466" y="110" width="434" height="587" key="#com.intellij.ide.macro.MacrosDialog/0.31.1366.737@0.31.1366.737" timestamp="1599585140160" />
+    <state x="348" y="31" key="#salary" timestamp="1599584940450">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="348" y="31" key="#salary/0.31.1366.737@0.31.1366.737" timestamp="1599584940450" />
+    <state x="526" y="134" width="313" height="538" key="EnvironmentVariablesDialog" timestamp="1599582734133">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="526" y="134" width="313" height="538" key="EnvironmentVariablesDialog/0.31.1366.737@0.31.1366.737" timestamp="1599582734133" />
+    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl" timestamp="1599584967103">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1599584967103" />
+    <state width="1314" height="159" key="GridCell.Tab.0.bottom" timestamp="1599590305068">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1314" height="159" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1599590305068" />
+    <state width="1314" height="159" key="GridCell.Tab.0.center" timestamp="1599590305067">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1314" height="159" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1599590305067" />
+    <state width="1314" height="159" key="GridCell.Tab.0.left" timestamp="1599590305067">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1314" height="159" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1599590305067" />
+    <state width="1314" height="159" key="GridCell.Tab.0.right" timestamp="1599590305068">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1314" height="159" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1599590305068" />
+    <state width="1343" height="217" key="GridCell.Tab.1.bottom" timestamp="1599582822409">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1343" height="217" key="GridCell.Tab.1.bottom/0.31.1366.737@0.31.1366.737" timestamp="1599582822409" />
+    <state width="1343" height="217" key="GridCell.Tab.1.center" timestamp="1599582822409">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1343" height="217" key="GridCell.Tab.1.center/0.31.1366.737@0.31.1366.737" timestamp="1599582822409" />
+    <state width="1343" height="217" key="GridCell.Tab.1.left" timestamp="1599582822408">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1343" height="217" key="GridCell.Tab.1.left/0.31.1366.737@0.31.1366.737" timestamp="1599582822408" />
+    <state width="1343" height="217" key="GridCell.Tab.1.right" timestamp="1599582822409">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1343" height="217" key="GridCell.Tab.1.right/0.31.1366.737@0.31.1366.737" timestamp="1599582822409" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1599584032169">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.31.1366.737@0.31.1366.737" timestamp="1599584032169" />
+  </component>
+</project>
